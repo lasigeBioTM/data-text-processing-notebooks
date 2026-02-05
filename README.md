@@ -1,10 +1,18 @@
 # Data Processing Book Notebooks
 
 This repository contains Jupyter notebooks used in the “[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)” book.  
+The notebooks provide a step-by-step guide to data and text processing using practical shell scripting.
+
+What You'll Learn:
+- Combine simple, powerful command-line tools, like digital LEGO bricks, for biological data work
+- Automate real-world biological data handling and retrieval
+- Extract information from web resources efficiently
+- Mine scientific literature using command-line techniques
+- Work with universal, open standard formats: TSV, CSV, XML, and OWL
 
 ## Contents
 
-- `notebooks/` – Chapter notebooks (e.g., Unix shell, Python basics, data analysis).
+- `notebooks/` – Jupyter notebooks.
 - `data/` – Sample datasets used in the notebooks.
 
 ## How to use in Google Colab
