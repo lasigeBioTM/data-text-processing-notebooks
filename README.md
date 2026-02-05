@@ -1,11 +1,11 @@
 # Data Processing Book Notebooks
 
-This repository contains Jupyter notebooks used in the “Data Processing” book, including examples such as `datepro-01-unix-shell.ipynb`.  
+This repository contains Jupyter notebooks used in the “Data and Text Processing for Health and Life Sciences” book.  
 
 ## Contents
 
 - `notebooks/` – Chapter notebooks (e.g., Unix shell, Python basics, data analysis).
-- `data/` – Sample datasets used in the notebooks (if applicable).
+- `data/` – Sample datasets used in the notebooks.
 
 ## How to use in Google Colab
 
