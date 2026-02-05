@@ -13,13 +13,12 @@ This repository contains Jupyter notebooks used in the “[Data and Text Process
 
 2. Click **File** > **Open notebook** > **GitHub** tab.
 
-3. Enter your GitHub repo URL (e.g., `https://github.com/<your-username>/<your-repo>`) and select the notebook (e.g., `notebooks/datepro-01-unix-shell.ipynb`).
+3. Enter your GitHub repo URL (e.g., `https://github.com/lasigeBioTM/data-text-processing-notebooks`) and select the notebook (e.g., `notebooks/data-text-processing-notebooks-01-unix-shell.ipynb`).
 
-   **Quick link method**: Replace `github.com` with `githubtocolab.com` in any notebook URL.  
-   Example: `https://github.com/<your-username>/<your-repo>/blob/main/notebooks/datepro-01-unix-shell.ipynb`  
-   → `https://githubtocolab.com/<your-username>/<your-repo>/blob/main/notebooks/datepro-01-unix-shell.ipynb` [web:17][web:22][web:23].
-
-Colab will open an editable, runnable version with free GPU/TPU support. Install any extra packages directly in the first cell with `!pip install ...`.
+   **Quick link method**: Replace `github.com` with `githubtocolab.com` in any notebook URL, example:
+   - https://github.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-01-unix-shell.ipynb
+   replace:
+   - https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-01-unix-shell.ipynb
 
 ## Viewing on GitHub
 
