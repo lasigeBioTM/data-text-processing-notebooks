@@ -17,7 +17,7 @@ This repository contains Jupyter notebooks used in the “[Data and Text Process
 
    **Quick link method**: Replace `github.com` with `githubtocolab.com` in any notebook URL, example:
    - https://github.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-01-unix-shell.ipynb
-   replace:
+   - can be replaced by:
    - https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-01-unix-shell.ipynb
 
 ## Viewing on GitHub
