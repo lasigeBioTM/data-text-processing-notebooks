@@ -2,7 +2,6 @@
 
 This repository contains Jupyter notebooks used in the “[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)” book.  
 The notebooks provide a step-by-step guide to data and text processing using practical shell scripting.
-Includes fix for new ChEBI 2.0 web interface that currently lacks detailed cross-references on entry pages.
 
 What You'll Learn:
 - Combine simple, powerful command-line tools, like digital LEGO bricks, for biological data work
@@ -10,6 +9,8 @@ What You'll Learn:
 - Extract information from web resources efficiently
 - Mine scientific literature using command-line techniques
 - Work with universal, open standard formats: TSV, CSV, XML, and OWL
+
+**Note:** Includes fix for new ChEBI 2.0 web interface that currently lacks detailed cross-references on entry pages.
 
 ## Contents
 
