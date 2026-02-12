@@ -13,7 +13,8 @@ What You'll Learn:
 ## Contents
 
 - `notebooks/` – Jupyter notebooks.
-- `data/` – Sample datasets used in the notebooks.
+- `data/` – Files with data created and used in the notebooks.
+- `scripts/` – Scripts created in the notebooks.
 
 ## How to use in Google Colab
 
