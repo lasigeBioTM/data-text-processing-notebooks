@@ -28,14 +28,14 @@ This repository contains Jupyter notebooks of the “[Data and Text Processing f
 
 ## Open in Google Colab
 
-**01**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_01_unix_shell.ipynb  
-**02**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_02_data_retrieval.ipynb  
-**03**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_03_data_extraction.ipynb  
-**04**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_04_task_repetition.ipynb  
-**05**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_05_xml_processing.ipynb  
-**06**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_06_text_retrieval.ipynb  
-**07**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_07_text_processing.ipynb  
-**08**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_08_semantic_processing.ipynb
+**01**: https://githubtocolab.com/lasigeBioTM/data-text_processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_01_unix_shell.ipynb  
+**02**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_02_data_retrieval.ipynb  
+**03**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_03_data_extraction.ipynb  
+**04**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_04_task_repetition.ipynb  
+**05**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_05_xml_processing.ipynb  
+**06**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_06_text_retrieval.ipynb  
+**07**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_07_text_processing.ipynb  
+**08**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_08_semantic_processing.ipynb
 
 ### Manual Colab Steps
 1. Go to [Google Colab](https://colab.research.google.com/)
