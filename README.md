@@ -1,6 +1,6 @@
-# Data Processing Book Jupyter Notebooks
+# Book Jupyter Notebooks
 
-This repository contains Jupyter notebooks used in the “[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)” book:
+This repository contains Jupyter notebooks of the “[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)” book
 
 ![Visual summary of the book Data and Text Processing in Life and Health Sciences created by Google Notebook](infographic.png)
 
