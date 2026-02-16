@@ -13,22 +13,43 @@ This repository contains Jupyter notebooks of the “[Data and Text Processing f
 - `data/` – Files with data created and used in the notebooks.
 - `scripts/` – Scripts created in the notebooks.
 
-## How to use in Google Colab
+## Notebook Overviews
 
-1. Go to [Google Colab](https://colab.research.google.com/).
+| # | Notebook | Overview |
+|---|----------|----------|
+| 01 | [unix-shell.ipynb](notebooks/data-text-processing-notebooks-01-unix-shell.ipynb) | **Unix Shell Basics**: Navigating directories (`ls`, `pwd`), viewing files (`head`, `cat`), piping. Prepares for ChEBI caffeine data retrieval. |
+| 02 | [data-retrieval.ipynb](notebooks/data-text-processing-notebooks-02-data-retrieval.ipynb) | **Data Retrieval**: `curl` from EBI services. Downloads UniProt xrefs for caffeine (CSV/XML). Creates `getdata.sh`. |
+| 03 | [data-extraction.ipynb](notebooks/data-text-processing-notebooks-03-data-extraction.ipynb) | **Filtering & Extraction**: `grep` (HUMAN/RAT/MOUSE), `cut` columns. Builds `getproteins.sh` for IDs (e.g., RYR1_HUMAN). |
+| 04 | [task-repetition.ipynb](notebooks/data-text-processing-notebooks-04-task-repetition.ipynb) | **Batch Processing**: `for` loops, `xargs`, `parallel` for scaling protein queries. |
+| 05 | [xml-processing.ipynb](notebooks/data-text-processing-notebooks-05-xml-processing.ipynb) | **XML Parsing**: UniProt XML via `grep`, `xmllint` (XPath). Extracts PubMed IDs (`getpublications.sh`). |
+| 06 | [text-retrieval.ipynb](notebooks/data-text-processing-notebooks-06-text-retrieval.ipynb) | **Publications**: RDF from UniProt/NCBI. Extracts titles/abstracts (`xmllint`). Disease recognition (hyperthermia). |
+| 07 | [text-processing.ipynb](notebooks/data-text-processing-notebooks-07-text-processing.ipynb) | **Text Prep**: Tokenization, sentence splitting, normalization for NER. |
+| 08 | [semantic-processing.ipynb](notebooks/data-text-processing-notebooks-08-semantic-processing.ipynb) | **Semantics**: DOID ontology lexicons, linking (`geturi.sh`), MER for NER + disambiguation. |
 
-2. Click **File** > **Open notebook** > **GitHub** tab.
+## Open direclty in Colab
 
-3. Enter your GitHub repo URL (e.g., `https://github.com/lasigeBioTM/data-text-processing-notebooks`) and select the notebook (e.g., `notebooks/data-text-processing-notebooks-01-unix-shell.ipynb`).
+https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-01-unix-shell.ipynb  
+https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-02-data-retrieval.ipynb  
+https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-03-data-extraction.ipynb  
+https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-04-task-repetition.ipynb  
+https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-05-xml-processing.ipynb  
+https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-06-text-retrieval.ipynb  
+https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-07-text-processing.ipynb  
+https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-08-semantic-processing.ipynb
 
-   **Quick link method**: Replace `github.com` with `githubtocolab.com` in any notebook URL, example:
-   - https://github.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-01-unix-shell.ipynb
-   - can be replaced by:
-   - https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-01-unix-shell.ipynb
 
-## Viewing on GitHub
+### Manual Colab Steps
+1. Go to [Google Colab](https://colab.research.google.com/)
+2. **File** -> **Open notebook** -> **GitHub** tab
+3. Paste repo: `https://github.com/lasigeBioTM/data-text-processing-notebooks`
+4. Select notebook from `notebooks/` folder -> **Open**
 
-GitHub can render `.ipynb` files directly in the browser, so readers can view code and outputs without running them.
+### Local Jupyter
+```bash
+git clone https://github.com/lasigeBioTM/data-text-processing-notebooks
+cd data-text-processing-notebooks
+jupyter notebook notebooks/
+```
 
 ## License
 
