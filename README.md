@@ -15,28 +15,27 @@ This repository contains Jupyter notebooks of the “[Data and Text Processing f
 
 ## Notebook Overviews
 
-| # | Notebook | Overview |
-|---|----------|----------|
-| 01 | [unix-shell.ipynb](notebooks/data-text-processing-notebooks-01-unix-shell.ipynb) | **Unix Shell Basics**: Navigating directories (`ls`, `pwd`), viewing files (`head`, `cat`), piping. Prepares for ChEBI caffeine data retrieval. |
-| 02 | [data-retrieval.ipynb](notebooks/data-text-processing-notebooks-02-data-retrieval.ipynb) | **Data Retrieval**: `curl` from EBI services. Downloads UniProt xrefs for caffeine (CSV/XML). Creates `getdata.sh`. |
-| 03 | [data-extraction.ipynb](notebooks/data-text-processing-notebooks-03-data-extraction.ipynb) | **Filtering & Extraction**: `grep` (HUMAN/RAT/MOUSE), `cut` columns. Builds `getproteins.sh` for IDs (e.g., RYR1_HUMAN). |
-| 04 | [task-repetition.ipynb](notebooks/data-text-processing-notebooks-04-task-repetition.ipynb) | **Batch Processing**: `for` loops, `xargs`, `parallel` for scaling protein queries. |
-| 05 | [xml-processing.ipynb](notebooks/data-text-processing-notebooks-05-xml-processing.ipynb) | **XML Parsing**: UniProt XML via `grep`, `xmllint` (XPath). Extracts PubMed IDs (`getpublications.sh`). |
-| 06 | [text-retrieval.ipynb](notebooks/data-text-processing-notebooks-06-text-retrieval.ipynb) | **Publications**: RDF from UniProt/NCBI. Extracts titles/abstracts (`xmllint`). Disease recognition (hyperthermia). |
-| 07 | [text-processing.ipynb](notebooks/data-text-processing-notebooks-07-text-processing.ipynb) | **Text Prep**: Tokenization, sentence splitting, normalization for NER. |
-| 08 | [semantic-processing.ipynb](notebooks/data-text-processing-notebooks-08-semantic-processing.ipynb) | **Semantics**: DOID ontology lexicons, linking (`geturi.sh`), MER for NER + disambiguation. |
+| # | **Notebook** | **Overview** |
+|---|--------------|--------------|
+| 01 | [unix shell](notebooks/data_text_processing_notebooks_01_unix_shell.ipynb) | Unix basics: `ls`, `pwd`, `head`, `cat`, piping. Setup for ChEBI retrieval. |
+| 02 | [data retrieval](notebooks/data_text_processing_notebooks_02_data_retrieval.ipynb) | `curl` EBI APIs. Download UniProt xrefs (CSV/XML). `getdata.sh`. |
+| 03 | [data extraction](notebooks/data_text_processing_notebooks_03_data_extraction.ipynb) | `grep` filter (HUMAN/RAT/MOUSE), `cut` columns. `getproteins.sh`. |
+| 04 | [task repetition](notebooks/data_text_processing_notebooks_04_task_repetition.ipynb) | Loops, `xargs`, `parallel` for batch processing. |
+| 05 | [XML processing](notebooks/data_text_processing_notebooks_05_xml_processing.ipynb) | `xmllint` XPath on UniProt XML. Extract PubMed IDs. |
+| 06 | [text retrieval](notebooks/data_text_processing_notebooks_06_text_retrieval.ipynb) | RDF publications (UniProt/NCBI). Extract titles/abstracts. |
+| 07 | [text processing](notebooks/data_text_processing_notebooks_07_text_processing.ipynb) | Tokenization, sentence splitting, normalization. |
+| 08 | [semantic processing](notebooks/data_text_processing_notebooks_08_semantic_processing.ipynb) | Ontology lexicons (DOID), NER + linking with MER tool. |
 
-## Open direclty in Colab
+## Open in Google Colab
 
-https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-01-unix-shell.ipynb  
-https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-02-data-retrieval.ipynb  
-https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-03-data-extraction.ipynb  
-https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-04-task-repetition.ipynb  
-https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-05-xml-processing.ipynb  
-https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-06-text-retrieval.ipynb  
-https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-07-text-processing.ipynb  
-https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data-text-processing-notebooks-08-semantic-processing.ipynb
-
+**01**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_01_unix_shell.ipynb  
+**02**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_02_data_retrieval.ipynb  
+**03**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_03_data_extraction.ipynb  
+**04**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_04_task_repetition.ipynb  
+**05**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_05_xml_processing.ipynb  
+**06**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_06_text_retrieval.ipynb  
+**07**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_07_text_processing.ipynb  
+**08**: https://githubtocolab.com/lasigeBioTM/data_text_processing_notebooks/blob/main/notebooks/data_text_processing_notebooks_08_semantic_processing.ipynb
 
 ### Manual Colab Steps
 1. Go to [Google Colab](https://colab.research.google.com/)
