@@ -1,14 +1,9 @@
-# Data Processing Book Notebooks
+# Data Processing Book Jupyter Notebooks
 
-This repository contains Jupyter notebooks used in the “[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)” book.  
-The notebooks provide a step-by-step guide to data and text processing using practical shell scripting.
+This repository contains Jupyter notebooks used in the “[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)” book:
 
-What You'll Learn:
-- Combine simple, powerful command-line tools, like digital LEGO bricks, for biological data work
-- Automate real-world biological data handling and retrieval
-- Extract information from web resources efficiently
-- Mine scientific literature using command-line techniques
-- Work with universal, open standard formats: TSV, CSV, XML, and OWL
+![Visual summary of the book Data and Text Processing in Life and Health Sciences created by Google Notebook](infographic.png)
+
 
 **Note:** Includes fix for new ChEBI 2.0 web interface that currently lacks detailed cross-references on entry pages.
 
