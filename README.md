@@ -1,4 +1,4 @@
-# Data and Text Processing for Health and Life Sciences — Jupyter Notebooks
+# Data and Text Processing for Health and Life Sciences - Jupyter Notebooks
 
 Interactive Jupyter notebooks accompanying the book **"[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)"**.
 Each notebook is a hands-on, step-by-step tutorial demonstrating how Unix shell scripting can be used to find, retrieve, and process biomedical data and text.
@@ -36,7 +36,7 @@ Each notebook is a hands-on, step-by-step tutorial demonstrating how Unix shell 
 
 ## Running the Notebooks
 
-### ▶ Option 1 — Google Colab (no installation required)
+### Option 1 — Google Colab (no installation required)
 
 Click a badge below to open the notebook directly in Google Colab:
 
@@ -59,7 +59,7 @@ Click a badge below to open the notebook directly in Google Colab:
 
 ---
 
-### 💻 Option 2 — Local Jupyter
+### Option 2 — Local Jupyter
 
 ```bash
 git clone https://github.com/lasigeBioTM/data-text-processing-notebooks
