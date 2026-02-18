@@ -36,7 +36,7 @@ Each notebook is a hands-on, step-by-step tutorial demonstrating how Unix shell 
 
 ## Running the Notebooks
 
-### Option 1 — Google Colab (no installation required)
+### Option 1 - Google Colab (no installation required)
 
 Click a badge below to open the notebook directly in Google Colab:
 
@@ -53,13 +53,13 @@ Click a badge below to open the notebook directly in Google Colab:
 
 **Alternatively**, open any notebook manually:
 1. Go to [Google Colab](https://colab.research.google.com/)
-2. **File → Open notebook → GitHub** tab
+2. **File -> Open notebook -> GitHub** tab
 3. Paste the repository URL: `https://github.com/lasigeBioTM/data-text-processing-notebooks`
 4. Select a notebook from the `notebooks/` folder and click **Open**
 
 ---
 
-### Option 2 — Local Jupyter
+### Option 2 - Local Jupyter
 
 ```bash
 git clone https://github.com/lasigeBioTM/data-text-processing-notebooks
