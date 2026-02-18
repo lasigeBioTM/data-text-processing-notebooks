@@ -1,0 +1,46 @@
+alkaloid
+anesthesia related hyperthermia
+aromatic compound
+autosomal dominant disease
+autosomal genetic disease
+bicyclic compound
+caffeine
+carbon group molecular entity
+chemical entity
+cyclic compound
+disease
+disease of anatomical entity
+genetic disease
+heteroarene
+heterobicyclic compound
+heterocyclic compound
+heteroorganic entity
+heteropolycyclic compound
+imidazopyrimidine
+main group molecular entity
+malignant hyperpyrexia due to anesthesia
+malignant hyperthermia
+methylxanthine
+molecular entity
+molecule
+monogenic disease
+muscle tissue disease
+muscular disease
+musculoskeletal system disease
+nitrogen molecular entity
+organic aromatic compound
+organic cyclic compound
+organic heterobicyclic compound
+organic heterocyclic compound
+organic heteropolycyclic compound
+organic molecular entity
+organic molecule
+organonitrogen compound
+organonitrogen heterocyclic compound
+p-block molecular entity
+pnictogen molecular entity
+polyatomic entity
+polycyclic compound
+purine alkaloid
+purines
+trimethylxanthine

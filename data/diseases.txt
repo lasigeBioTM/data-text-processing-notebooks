@@ -1,0 +1,222 @@
+46,XY disorder of sex development due to LHB deficiency
+46,XY disorder of sex development due to luteinizing hormone subunit beta deficiency
+46,XY DSD due to LHB deficiency
+46,XY DSD due to luteinizing hormone subunit beta deficiency
+47
+AD2
+A-fib
+alpha thalassemia-intellectual disability syndrome
+alpha-thalassemia-intellectual disability syndrome linked to chromosome 16
+alpha thalassemia-intellectual disability syndrome type 1
+alpha-thalassemia/mental retardation syndrome
+alpha-thalassemia/mental retardation syndrome nondeletion type
+alpha thalassemia-retardation syndrome
+alpha thalassemia-X-linked intellectual disability syndrome
+Alzheimer disease 2
+Alzheimer disease-2
+Alzheimer disease associated with APOE4
+Alzheimer's disease 2
+ANDERSEN CARDIODYSRHYTHMIC PERIODIC PARALYSIS
+Andersen syndrome
+Andersen-Tawil syndrome
+anesthesia related hyperthermia
+animal phobia
+arrhythmogenic right ventricular cardiomyopathy
+arrhythmogenic right ventricular cardiomyopathy 2
+arrhythmogenic right ventricular dysplasia
+arrhythmogenic right ventricular dysplasia 2
+arrhythmogenic right ventricular dysplasia/cardiomyopathy
+ARVC
+ARVC2
+ARVC cardiomyopathy
+ARVD
+ARVD2
+ataxia telangiectasia
+ATR
+ATR-16 syndrome
+atrial fibrillation
+ATR syndrome
+ATR syndrome linked to chromosome 16
+ATR-X syndrome
+autosomal dominant disease
+autosomal genetic disease
+Batten Turner congenital myopathy
+Becker muscular dystrophy
+BENIGN CHRONIC PEMPHIGUS
+benign congenital myopathy
+Benign pseudohypertrophic muscular dystrophy
+bestiality
+blepharophimosis ptosis intellectual disability syndrome
+Boder-Sedgwick syndrome
+CAN
+cancer
+cardiac arrest
+Cardiomyopathies
+cardiomyopathy
+cardiopulmonary arrest
+catecholaminergic polymorphic ventricular tachycardia
+central core disease
+central core myopathy
+CFTD
+CHIME syndrome
+chorea
+choreatic disease
+chronic hepatitis C
+chronic rejection of renal transplant disorder
+circulatory arrest
+cleft lip-palate-ectodermal dysplasia syndrome
+cleft lip/palate-syndactyly-pili torti syndrome
+CLPED1
+coloboma-congenital heart disease-ichthyosiform dermatosis-intellectual disability-ear anomalies syndrome
+congenital disorder of glycosylation due to PIGL deficiency
+congenital fiber-type disproportion
+congenital myopathy
+congenital myotonic dystrophy
+Crouzon-dermoskeletal syndrome
+Crouzonodermoskeletal syndrome
+Crouzon syndrome-acanthosis nigricans syndrome
+cysticercosis
+disease
+disease of anatomical entity
+disseminated mucormycosis
+Dyskinesia
+dystonia
+dystonic disease
+Dystrophia myotonica
+epilepsy
+epilepsy syndrome
+epileptic syndrome
+familial arrhythmogenic right ventricular dysplasia 2
+familial hemophagocytic lymphohistiocytosis 1
+familial hypokalemic periodic paralysis
+familial periodic paralysis
+Fear of animals
+fertile eunuch syndrome
+FHL1
+genetic disease
+Glaucomatous atrophy cupping of optic disc
+glaucomatous atrophy of optic disc
+gonococcal synovitis
+Gonococcal synovitis &amp;/or tenosynovitis
+Gonococcal synovitis and tenosynovitis
+Gonococcal synovitis or tenosynovitis
+Hailey-Hailey disease
+hepatitis C
+hepatitis C infection
+hepatitis nonA nonB
+hereditary chorea
+HL
+HLH1
+Hodgkin disease
+Hodgkin lymphoma
+Hodgkin's lymphoma
+Hodgkins lymphoma
+Hodgkin's sarcoma
+HPLH1
+hypercholesteremia
+hypercholesterolaemia
+Hypogonadotropic Hypogonadism
+hypogonadotropic hypogonadism 23 with or without anosmia
+Hypokalemic familial periodic paralysis
+hypokalemic periodic paralysis
+Hypokalemic periodic paralysis
+Indian plum allergy
+intellectual disability
+intestinal taenia solium infection
+Kagami-Ogata syndrome
+Kaufman oculocerebrofacial syndrome
+Klinefelter's syndrome
+Klinefelter syndrome
+KOS
+leydig cell hypoplasia due to LHB deficiency
+Leydig cell hypoplasia due to luteinizing hormone subunit beta deficiency
+long Q-T syndrome
+long QT syndrome
+long QT syndrome 1
+long QT syndrome 2
+long QT syndrome 3
+long QT syndrome 5
+long QT syndrome 6
+Long QT syndrome 7
+Louis Bar syndrome
+LQT
+LQT1
+LQT2
+LQT3
+LQT5
+LQT6
+LQT7
+malignant hyperpyrexia due to anesthesia
+malignant hyperthermia
+malignant neoplasm
+malignant tumor
+Margarita type of ectodermal dysplasia
+mental retardation
+MENTAL RETARDATION
+migraine
+migraine disorder
+migraine variant
+migraine with or without aura
+monogenic disease
+mucormycosis
+muscle tissue disease
+muscular disease
+musculoskeletal system disease
+myopathy
+myotonic dystrophy of Steinert
+myotonic dystrophy type 1
+NANBH
+Nemaline body disease
+nemaline myopathy
+nemaline rod myopathy
+nephropathy and deafness
+neurocysticercosis
+neuroectodermal dysplasia
+neuroectodermal syndrome
+obsolete chronic rejection of renal transplant
+obsolete dyskinetic syndrome
+obsolete hypercholesterolemia
+obsolete Measles virus encephalitis
+oculocerebrofacial syndrome
+oculomotor paralysis
+ophthalmoplegia
+orofacial cleft 7
+Pasqualini syndrome
+Pemphigus
+periodic hypokalemic paralysis
+Periodic paralysis I
+PIGL-CDG
+Pork tapeworm infection
+postmeasles encephalitis
+Post-measles encephalitis
+Post measles encephalitis disorder
+Potassium-Sensitive Cardiodysrhythmic Type
+primary cancer
+rod myopathy
+Romano-Ward syndrome
+scoliosis
+stage II Subdiaphragmatic Hodgkin Lymphoma
+stage I Subdiaphragmatic Hodgkin Lymphoma
+Steinert disease
+syndactyly-ectodermal dysplasia-cleft/lip palate
+syndrome
+syndromic intellectual disability
+Tapeworm infection
+tenia solium infectious disease
+Total ophthalmoplegia
+ventricular fibrillation with prolonged QT interval
+Viral hepatitis C
+Westphal disease
+X-linked Alport syndrome
+XXY syndrome
+XXY trisomy
+Ziziphus mauritiana fruit allergy
+Zlotogora-Ogur syndrome
+Zlotogora-Zilberman-Tenenbaum syndrome
+Zollinger-Ellison syndrome
+Zoophilia
+Zoophobia
+Zunich-Kaye syndrome
+Zunich neuroectodermal syndrome
+zygodactyly 1
+zygomycosis

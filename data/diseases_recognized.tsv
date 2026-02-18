@@ -1,0 +1,458 @@
+89	111	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+74	96	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+144	164	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+157	164	disease	http://purl.obolibrary.org/obo/DOID_4
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+47	55	myopathy	http://purl.obolibrary.org/obo/DOID_423
+254	274	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+267	274	disease	http://purl.obolibrary.org/obo/DOID_4
+38	58	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+51	58	disease	http://purl.obolibrary.org/obo/DOID_4
+68	87	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+79	87	myopathy	http://purl.obolibrary.org/obo/DOID_423
+23	30	disease	http://purl.obolibrary.org/obo/DOID_4
+166	173	disease	http://purl.obolibrary.org/obo/DOID_4
+48	70	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+59	81	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+82	104	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+72	91	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+83	91	myopathy	http://purl.obolibrary.org/obo/DOID_423
+44	51	disease	http://purl.obolibrary.org/obo/DOID_4
+62	83	nemaline rod myopathy	http://purl.obolibrary.org/obo/DOID_3191
+71	83	rod myopathy	http://purl.obolibrary.org/obo/DOID_3191
+75	83	myopathy	http://purl.obolibrary.org/obo/DOID_423
+9	21	rod myopathy	http://purl.obolibrary.org/obo/DOID_3191
+13	21	myopathy	http://purl.obolibrary.org/obo/DOID_423
+132	151	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+143	151	myopathy	http://purl.obolibrary.org/obo/DOID_423
+212	229	nemaline myopathy	http://purl.obolibrary.org/obo/DOID_3191
+221	229	myopathy	http://purl.obolibrary.org/obo/DOID_423
+123	140	nemaline myopathy	http://purl.obolibrary.org/obo/DOID_3191
+132	140	myopathy	http://purl.obolibrary.org/obo/DOID_423
+210	217	disease	http://purl.obolibrary.org/obo/DOID_4
+112	119	disease	http://purl.obolibrary.org/obo/DOID_4
+181	188	disease	http://purl.obolibrary.org/obo/DOID_4
+96	110	cardiomyopathy	http://purl.obolibrary.org/obo/DOID_0050700
+4	11	disease	http://purl.obolibrary.org/obo/DOID_4
+93	115	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+143	163	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+156	163	disease	http://purl.obolibrary.org/obo/DOID_4
+133	140	disease	http://purl.obolibrary.org/obo/DOID_4
+93	140	arrhythmogenic right ventricular cardiomyopathy	http://purl.obolibrary.org/obo/DOID_0050431
+126	140	cardiomyopathy	http://purl.obolibrary.org/obo/DOID_0050700
+218	232	cardiac arrest	http://purl.obolibrary.org/obo/DOID_0060319
+120	127	disease	http://purl.obolibrary.org/obo/DOID_4
+80	133	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+113	120	disease	http://purl.obolibrary.org/obo/DOID_4
+120	173	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+66	119	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+90	112	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+91	99	syndrome	http://purl.obolibrary.org/obo/DOID_225
+61	83	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+94	116	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+82	104	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+67	89	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+212	234	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+98	104	cancer	http://purl.obolibrary.org/obo/DOID_162
+15	37	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+52	71	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+63	71	myopathy	http://purl.obolibrary.org/obo/DOID_423
+106	113	disease	http://purl.obolibrary.org/obo/DOID_4
+117	139	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+163	170	disease	http://purl.obolibrary.org/obo/DOID_4
+181	201	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+194	201	disease	http://purl.obolibrary.org/obo/DOID_4
+31	51	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+44	51	disease	http://purl.obolibrary.org/obo/DOID_4
+28	49	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+128	148	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+141	148	disease	http://purl.obolibrary.org/obo/DOID_4
+94	114	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+107	114	disease	http://purl.obolibrary.org/obo/DOID_4
+145	167	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+74	96	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+145	167	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+86	108	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+158	165	disease	http://purl.obolibrary.org/obo/DOID_4
+57	110	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+96	149	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+186	193	disease	http://purl.obolibrary.org/obo/DOID_4
+83	90	disease	http://purl.obolibrary.org/obo/DOID_4
+20	40	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+33	40	disease	http://purl.obolibrary.org/obo/DOID_4
+83	90	disease	http://purl.obolibrary.org/obo/DOID_4
+15	22	disease	http://purl.obolibrary.org/obo/DOID_4
+49	68	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+60	68	myopathy	http://purl.obolibrary.org/obo/DOID_423
+95	102	disease	http://purl.obolibrary.org/obo/DOID_4
+14	21	disease	http://purl.obolibrary.org/obo/DOID_4
+51	58	disease	http://purl.obolibrary.org/obo/DOID_4
+103	112	scoliosis	http://purl.obolibrary.org/obo/DOID_0060249
+190	209	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+201	209	myopathy	http://purl.obolibrary.org/obo/DOID_423
+210	230	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+223	230	disease	http://purl.obolibrary.org/obo/DOID_4
+78	98	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+91	98	disease	http://purl.obolibrary.org/obo/DOID_4
+74	94	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+87	94	disease	http://purl.obolibrary.org/obo/DOID_4
+186	193	disease	http://purl.obolibrary.org/obo/DOID_4
+107	114	disease	http://purl.obolibrary.org/obo/DOID_4
+161	168	disease	http://purl.obolibrary.org/obo/DOID_4
+83	105	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+55	74	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+66	74	myopathy	http://purl.obolibrary.org/obo/DOID_423
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+32	51	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+43	51	myopathy	http://purl.obolibrary.org/obo/DOID_423
+86	105	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+97	105	myopathy	http://purl.obolibrary.org/obo/DOID_423
+23	42	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+34	42	myopathy	http://purl.obolibrary.org/obo/DOID_423
+158	166	myopathy	http://purl.obolibrary.org/obo/DOID_423
+220	228	myopathy	http://purl.obolibrary.org/obo/DOID_423
+59	81	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+88	96	syndrome	http://purl.obolibrary.org/obo/DOID_225
+44	66	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+139	161	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+31	51	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+44	51	disease	http://purl.obolibrary.org/obo/DOID_4
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+25	42	nemaline myopathy	http://purl.obolibrary.org/obo/DOID_3191
+34	42	myopathy	http://purl.obolibrary.org/obo/DOID_423
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+75	95	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+88	95	disease	http://purl.obolibrary.org/obo/DOID_4
+100	117	nemaline myopathy	http://purl.obolibrary.org/obo/DOID_3191
+109	117	myopathy	http://purl.obolibrary.org/obo/DOID_423
+128	135	disease	http://purl.obolibrary.org/obo/DOID_4
+120	140	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+133	140	disease	http://purl.obolibrary.org/obo/DOID_4
+153	160	disease	http://purl.obolibrary.org/obo/DOID_4
+69	89	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+82	89	disease	http://purl.obolibrary.org/obo/DOID_4
+115	123	syndrome	http://purl.obolibrary.org/obo/DOID_225
+7	15	syndrome	http://purl.obolibrary.org/obo/DOID_225
+142	160	mental retardation	http://purl.obolibrary.org/obo/DOID_1059
+19	27	syndrome	http://purl.obolibrary.org/obo/DOID_225
+136	144	syndrome	http://purl.obolibrary.org/obo/DOID_225
+168	176	syndrome	http://purl.obolibrary.org/obo/DOID_225
+52	60	syndrome	http://purl.obolibrary.org/obo/DOID_225
+4	11	disease	http://purl.obolibrary.org/obo/DOID_4
+77	97	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+90	97	disease	http://purl.obolibrary.org/obo/DOID_4
+106	128	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+109	116	disease	http://purl.obolibrary.org/obo/DOID_4
+117	136	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+128	136	myopathy	http://purl.obolibrary.org/obo/DOID_423
+142	157	ophthalmoplegia	http://purl.obolibrary.org/obo/DOID_539
+132	154	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+156	176	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+169	176	disease	http://purl.obolibrary.org/obo/DOID_4
+217	224	disease	http://purl.obolibrary.org/obo/DOID_4
+87	102	ophthalmoplegia	http://purl.obolibrary.org/obo/DOID_539
+72	94	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+52	74	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+23	43	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+36	43	disease	http://purl.obolibrary.org/obo/DOID_4
+84	104	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+97	104	disease	http://purl.obolibrary.org/obo/DOID_4
+148	156	syndrome	http://purl.obolibrary.org/obo/DOID_225
+119	127	syndrome	http://purl.obolibrary.org/obo/DOID_225
+132	154	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+239	261	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+106	128	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+67	89	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+124	177	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+216	223	disease	http://purl.obolibrary.org/obo/DOID_4
+78	86	syndrome	http://purl.obolibrary.org/obo/DOID_225
+116	169	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+53	72	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+64	72	myopathy	http://purl.obolibrary.org/obo/DOID_423
+84	106	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+51	70	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+62	70	myopathy	http://purl.obolibrary.org/obo/DOID_423
+177	186	scoliosis	http://purl.obolibrary.org/obo/DOID_0060249
+171	179	myopathy	http://purl.obolibrary.org/obo/DOID_423
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+70	92	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+164	171	disease	http://purl.obolibrary.org/obo/DOID_4
+88	95	disease	http://purl.obolibrary.org/obo/DOID_4
+14	21	disease	http://purl.obolibrary.org/obo/DOID_4
+49	71	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+21	41	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+34	41	disease	http://purl.obolibrary.org/obo/DOID_4
+51	58	disease	http://purl.obolibrary.org/obo/DOID_4
+85	106	hypercholesterolaemia	http://purl.obolibrary.org/obo/DOID_2487
+44	66	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+39	69	hypokalemic periodic paralysis	http://purl.obolibrary.org/obo/DOID_14452
+84	106	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+56	62	cancer	http://purl.obolibrary.org/obo/DOID_162
+78	86	syndrome	http://purl.obolibrary.org/obo/DOID_225
+45	53	syndrome	http://purl.obolibrary.org/obo/DOID_225
+96	116	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+109	116	disease	http://purl.obolibrary.org/obo/DOID_4
+120	139	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+131	139	myopathy	http://purl.obolibrary.org/obo/DOID_423
+110	130	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+123	130	disease	http://purl.obolibrary.org/obo/DOID_4
+116	124	syndrome	http://purl.obolibrary.org/obo/DOID_225
+56	109	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+178	186	syndrome	http://purl.obolibrary.org/obo/DOID_225
+137	145	syndrome	http://purl.obolibrary.org/obo/DOID_225
+7	15	syndrome	http://purl.obolibrary.org/obo/DOID_225
+91	99	syndrome	http://purl.obolibrary.org/obo/DOID_225
+118	139	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+7	15	syndrome	http://purl.obolibrary.org/obo/DOID_225
+122	130	syndrome	http://purl.obolibrary.org/obo/DOID_225
+91	99	syndrome	http://purl.obolibrary.org/obo/DOID_225
+114	122	syndrome	http://purl.obolibrary.org/obo/DOID_225
+15	23	syndrome	http://purl.obolibrary.org/obo/DOID_225
+24	32	syndrome	http://purl.obolibrary.org/obo/DOID_225
+27	37	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+77	84	disease	http://purl.obolibrary.org/obo/DOID_4
+161	169	epilepsy	http://purl.obolibrary.org/obo/DOID_1826
+171	179	migraine	http://purl.obolibrary.org/obo/DOID_6364
+40	50	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+85	138	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+115	129	cardiac arrest	http://purl.obolibrary.org/obo/DOID_0060319
+228	236	syndrome	http://purl.obolibrary.org/obo/DOID_225
+89	96	disease	http://purl.obolibrary.org/obo/DOID_4
+125	132	disease	http://purl.obolibrary.org/obo/DOID_4
+266	273	disease	http://purl.obolibrary.org/obo/DOID_4
+166	172	cancer	http://purl.obolibrary.org/obo/DOID_162
+215	221	cancer	http://purl.obolibrary.org/obo/DOID_162
+62	68	cancer	http://purl.obolibrary.org/obo/DOID_162
+57	67	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+96	103	disease	http://purl.obolibrary.org/obo/DOID_4
+107	117	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+104	126	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+43	63	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+56	63	disease	http://purl.obolibrary.org/obo/DOID_4
+73	81	myopathy	http://purl.obolibrary.org/obo/DOID_423
+203	210	disease	http://purl.obolibrary.org/obo/DOID_4
+125	178	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+66	74	syndrome	http://purl.obolibrary.org/obo/DOID_225
+137	145	syndrome	http://purl.obolibrary.org/obo/DOID_225
+40	48	myopathy	http://purl.obolibrary.org/obo/DOID_423
+65	72	disease	http://purl.obolibrary.org/obo/DOID_4
+85	104	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+96	104	myopathy	http://purl.obolibrary.org/obo/DOID_423
+214	234	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+227	234	disease	http://purl.obolibrary.org/obo/DOID_4
+239	261	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+9	24	ophthalmoplegia	http://purl.obolibrary.org/obo/DOID_539
+99	114	ophthalmoplegia	http://purl.obolibrary.org/obo/DOID_539
+45	54	scoliosis	http://purl.obolibrary.org/obo/DOID_0060249
+52	74	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+129	136	disease	http://purl.obolibrary.org/obo/DOID_4
+151	166	ophthalmoplegia	http://purl.obolibrary.org/obo/DOID_539
+234	254	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+247	254	disease	http://purl.obolibrary.org/obo/DOID_4
+9	17	myopathy	http://purl.obolibrary.org/obo/DOID_423
+23	38	ophthalmoplegia	http://purl.obolibrary.org/obo/DOID_539
+85	107	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+318	340	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+102	112	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+201	211	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+105	112	disease	http://purl.obolibrary.org/obo/DOID_4
+278	285	disease	http://purl.obolibrary.org/obo/DOID_4
+62	68	cancer	http://purl.obolibrary.org/obo/DOID_162
+45	52	disease	http://purl.obolibrary.org/obo/DOID_4
+54	64	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+117	127	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+54	79	myotonic dystrophy type 1	http://purl.obolibrary.org/obo/DOID_11722
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+52	71	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+63	71	myopathy	http://purl.obolibrary.org/obo/DOID_423
+98	120	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+96	102	cancer	http://purl.obolibrary.org/obo/DOID_162
+172	178	cancer	http://purl.obolibrary.org/obo/DOID_162
+25	31	cancer	http://purl.obolibrary.org/obo/DOID_162
+134	140	cancer	http://purl.obolibrary.org/obo/DOID_162
+38	44	cancer	http://purl.obolibrary.org/obo/DOID_162
+93	114	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+104	126	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+45	67	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+99	106	disease	http://purl.obolibrary.org/obo/DOID_4
+70	77	disease	http://purl.obolibrary.org/obo/DOID_4
+22	43	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+41	53	rod myopathy	http://purl.obolibrary.org/obo/DOID_3191
+45	53	myopathy	http://purl.obolibrary.org/obo/DOID_423
+102	108	cancer	http://purl.obolibrary.org/obo/DOID_162
+16	24	syndrome	http://purl.obolibrary.org/obo/DOID_225
+14	20	cancer	http://purl.obolibrary.org/obo/DOID_162
+27	37	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+27	37	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+116	124	dystonia	http://purl.obolibrary.org/obo/DOID_543
+126	132	chorea	http://purl.obolibrary.org/obo/DOID_12859
+51	58	disease	http://purl.obolibrary.org/obo/DOID_4
+49	71	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+119	138	atrial fibrillation	http://purl.obolibrary.org/obo/DOID_0060224
+108	127	atrial fibrillation	http://purl.obolibrary.org/obo/DOID_0060224
+76	98	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+103	123	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+116	123	disease	http://purl.obolibrary.org/obo/DOID_4
+46	68	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+173	195	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+31	46	ophthalmoplegia	http://purl.obolibrary.org/obo/DOID_539
+76	98	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+62	115	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+168	188	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+181	188	disease	http://purl.obolibrary.org/obo/DOID_4
+193	215	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+37	47	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+27	37	dyskinesia	http://purl.obolibrary.org/obo/DOID_306
+43	51	dystonia	http://purl.obolibrary.org/obo/DOID_543
+4	11	disease	http://purl.obolibrary.org/obo/DOID_4
+31	38	disease	http://purl.obolibrary.org/obo/DOID_4
+16	24	syndrome	http://purl.obolibrary.org/obo/DOID_225
+128	136	myopathy	http://purl.obolibrary.org/obo/DOID_423
+142	164	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+123	143	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+136	143	disease	http://purl.obolibrary.org/obo/DOID_4
+155	177	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+92	100	syndrome	http://purl.obolibrary.org/obo/DOID_225
+16	24	syndrome	http://purl.obolibrary.org/obo/DOID_225
+100	120	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+113	120	disease	http://purl.obolibrary.org/obo/DOID_4
+161	168	disease	http://purl.obolibrary.org/obo/DOID_4
+198	220	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+5	26	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+99	107	syndrome	http://purl.obolibrary.org/obo/DOID_225
+173	180	disease	http://purl.obolibrary.org/obo/DOID_4
+95	101	cancer	http://purl.obolibrary.org/obo/DOID_162
+233	240	disease	http://purl.obolibrary.org/obo/DOID_4
+72	78	cancer	http://purl.obolibrary.org/obo/DOID_162
+79	87	syndrome	http://purl.obolibrary.org/obo/DOID_225
+62	68	cancer	http://purl.obolibrary.org/obo/DOID_162
+69	77	syndrome	http://purl.obolibrary.org/obo/DOID_225
+145	152	disease	http://purl.obolibrary.org/obo/DOID_4
+37	44	disease	http://purl.obolibrary.org/obo/DOID_4
+99	106	disease	http://purl.obolibrary.org/obo/DOID_4
+29	36	disease	http://purl.obolibrary.org/obo/DOID_4
+31	50	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+42	50	myopathy	http://purl.obolibrary.org/obo/DOID_423
+198	217	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+209	217	myopathy	http://purl.obolibrary.org/obo/DOID_423
+60	82	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+65	72	disease	http://purl.obolibrary.org/obo/DOID_4
+10	18	myopathy	http://purl.obolibrary.org/obo/DOID_423
+34	60	benign congenital myopathy	http://purl.obolibrary.org/obo/DOID_9883
+41	60	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+52	60	myopathy	http://purl.obolibrary.org/obo/DOID_423
+131	137	cancer	http://purl.obolibrary.org/obo/DOID_162
+51	57	cancer	http://purl.obolibrary.org/obo/DOID_162
+190	212	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+100	122	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+45	67	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+58	77	congenital myopathy	http://purl.obolibrary.org/obo/DOID_0080100
+69	77	myopathy	http://purl.obolibrary.org/obo/DOID_423
+59	79	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+72	79	disease	http://purl.obolibrary.org/obo/DOID_4
+59	78	atrial fibrillation	http://purl.obolibrary.org/obo/DOID_0060224
+40	63	intellectual disability	http://purl.obolibrary.org/obo/DOID_1059
+50	73	intellectual disability	http://purl.obolibrary.org/obo/DOID_1059
+101	154	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+194	200	cancer	http://purl.obolibrary.org/obo/DOID_162
+75	97	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+102	122	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+115	122	disease	http://purl.obolibrary.org/obo/DOID_4
+158	180	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+190	210	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+203	210	disease	http://purl.obolibrary.org/obo/DOID_4
+67	74	disease	http://purl.obolibrary.org/obo/DOID_4
+87	109	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+148	170	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+96	118	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+67	73	cancer	http://purl.obolibrary.org/obo/DOID_162
+191	197	cancer	http://purl.obolibrary.org/obo/DOID_162
+95	101	cancer	http://purl.obolibrary.org/obo/DOID_162
+227	233	cancer	http://purl.obolibrary.org/obo/DOID_162
+166	172	cancer	http://purl.obolibrary.org/obo/DOID_162
+35	57	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+62	82	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+75	82	disease	http://purl.obolibrary.org/obo/DOID_4
+181	203	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+213	233	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+226	233	disease	http://purl.obolibrary.org/obo/DOID_4
+64	71	disease	http://purl.obolibrary.org/obo/DOID_4
+168	176	myopathy	http://purl.obolibrary.org/obo/DOID_423
+128	136	myopathy	http://purl.obolibrary.org/obo/DOID_423
+195	248	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+260	279	atrial fibrillation	http://purl.obolibrary.org/obo/DOID_0060224
+97	119	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+75	83	syndrome	http://purl.obolibrary.org/obo/DOID_225
+73	81	myopathy	http://purl.obolibrary.org/obo/DOID_423
+50	58	myopathy	http://purl.obolibrary.org/obo/DOID_423
+52	60	myopathy	http://purl.obolibrary.org/obo/DOID_423
+74	83	scoliosis	http://purl.obolibrary.org/obo/DOID_0060249
+102	109	disease	http://purl.obolibrary.org/obo/DOID_4
+67	75	myopathy	http://purl.obolibrary.org/obo/DOID_423
+26	32	chorea	http://purl.obolibrary.org/obo/DOID_12859
+37	45	dystonia	http://purl.obolibrary.org/obo/DOID_543
+127	134	disease	http://purl.obolibrary.org/obo/DOID_4
+54	62	syndrome	http://purl.obolibrary.org/obo/DOID_225
+67	120	catecholaminergic polymorphic ventricular tachycardia	http://purl.obolibrary.org/obo/DOID_0060674
+55	62	disease	http://purl.obolibrary.org/obo/DOID_4
+179	187	syndrome	http://purl.obolibrary.org/obo/DOID_225
+127	133	cancer	http://purl.obolibrary.org/obo/DOID_162
+10	31	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+77	83	cancer	http://purl.obolibrary.org/obo/DOID_162
+50	56	cancer	http://purl.obolibrary.org/obo/DOID_162
+26	32	cancer	http://purl.obolibrary.org/obo/DOID_162
+47	55	syndrome	http://purl.obolibrary.org/obo/DOID_225
+266	274	syndrome	http://purl.obolibrary.org/obo/DOID_225
+43	65	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+39	61	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+85	107	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+79	99	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+92	99	disease	http://purl.obolibrary.org/obo/DOID_4
+114	122	myopathy	http://purl.obolibrary.org/obo/DOID_423
+43	65	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+101	123	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+146	166	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+159	166	disease	http://purl.obolibrary.org/obo/DOID_4
+212	234	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+85	105	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+98	105	disease	http://purl.obolibrary.org/obo/DOID_4
+103	125	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+71	93	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+94	116	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+64	84	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+77	84	disease	http://purl.obolibrary.org/obo/DOID_4
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+77	85	myopathy	http://purl.obolibrary.org/obo/DOID_423
+25	47	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+13	20	disease	http://purl.obolibrary.org/obo/DOID_4
+53	61	myopathy	http://purl.obolibrary.org/obo/DOID_423
+95	117	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+44	64	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+57	64	disease	http://purl.obolibrary.org/obo/DOID_4
+69	91	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+89	110	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+148	170	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+175	195	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+188	195	disease	http://purl.obolibrary.org/obo/DOID_4
+114	135	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+40	62	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+130	138	myopathy	http://purl.obolibrary.org/obo/DOID_423
+54	62	myopathy	http://purl.obolibrary.org/obo/DOID_423
+66	88	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+73	95	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+86	108	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+103	125	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+148	168	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+161	168	disease	http://purl.obolibrary.org/obo/DOID_4
+65	86	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+67	89	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+75	97	malignant hyperthermia	http://purl.obolibrary.org/obo/DOID_8545
+102	122	central core disease	http://purl.obolibrary.org/obo/DOID_3529
+115	122	disease	http://purl.obolibrary.org/obo/DOID_4
+143	151	myopathy	http://purl.obolibrary.org/obo/DOID_423
+100	121	ataxia telangiectasia	http://purl.obolibrary.org/obo/DOID_12704
+167	173	cancer	http://purl.obolibrary.org/obo/DOID_162

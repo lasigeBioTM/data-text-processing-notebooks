@@ -1,0 +1,3 @@
+(M|m)alignant (H|h)yperthermia
+MH[SNE]?
+(C|c)affeine

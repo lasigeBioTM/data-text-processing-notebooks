@@ -1,0 +1,117 @@
+caffeine
+purine alkaloid
+trimethylxanthine
+alkaloid
+methylxanthine
+purines
+purine alkaloid
+organonitrogen compound
+imidazopyrimidine
+alkaloid
+purines
+organic heterobicyclic compound
+heteroorganic entity
+heteroarene
+organonitrogen heterocyclic compound
+nitrogen molecular entity
+organic heterocyclic compound
+pnictogen molecular entity
+organic aromatic compound
+heterobicyclic compound
+organonitrogen compound
+imidazopyrimidine
+organic heteropolycyclic compound
+organic molecular entity
+organic heterocyclic compound
+organic heterobicyclic compound
+heteroorganic entity
+carbon group molecular entity
+bicyclic compound
+aromatic compound
+heteropolycyclic compound
+p-block molecular entity
+organic cyclic compound
+heteroarene
+organonitrogen heterocyclic compound
+nitrogen molecular entity
+heterocyclic compound
+organic heterocyclic compound
+heteroorganic entity
+pnictogen molecular entity
+main group molecular entity
+cyclic compound
+polycyclic compound
+organic aromatic compound
+heterobicyclic compound
+p-block molecular entity
+organic cyclic compound
+organonitrogen compound
+organic heteropolycyclic compound
+organic molecular entity
+heterocyclic compound
+organic molecule
+molecular entity
+organic heterocyclic compound
+molecule
+heteroorganic entity
+main group molecular entity
+carbon group molecular entity
+cyclic compound
+bicyclic compound
+aromatic compound
+heteropolycyclic compound
+p-block molecular entity
+organic cyclic compound
+organic molecular entity
+nitrogen molecular entity
+heterocyclic compound
+organic molecule
+molecular entity
+chemical entity
+molecule
+heteroorganic entity
+pnictogen molecular entity
+main group molecular entity
+carbon group molecular entity
+cyclic compound
+polycyclic compound
+p-block molecular entity
+organic cyclic compound
+polyatomic entity
+organic molecular entity
+heterocyclic compound
+organic molecule
+molecular entity
+chemical entity
+molecule
+main group molecular entity
+carbon group molecular entity
+cyclic compound
+p-block molecular entity
+polyatomic entity
+organic molecular entity
+organic molecule
+molecular entity
+chemical entity
+molecule
+main group molecular entity
+carbon group molecular entity
+p-block molecular entity
+polyatomic entity
+organic molecular entity
+molecular entity
+chemical entity
+main group molecular entity
+carbon group molecular entity
+p-block molecular entity
+polyatomic entity
+molecular entity
+chemical entity
+main group molecular entity
+p-block molecular entity
+molecular entity
+chemical entity
+main group molecular entity
+molecular entity
+chemical entity
+chemical entity
