@@ -1,54 +1,71 @@
-# Book Jupyter Notebooks
+# Data and Text Processing for Health and Life Sciences — Jupyter Notebooks
 
-This repository contains Jupyter notebooks of the “[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)” book
+Interactive Jupyter notebooks accompanying the book **"[Data and Text Processing for Health and Life Sciences](https://labs.rd.ciencias.ulisboa.pt/book/)"**.
+Each notebook is a hands-on, step-by-step tutorial demonstrating how Unix shell scripting can be used to find, retrieve, and process biomedical data and text.
 
-![Visual summary of the book Data and Text Processing in Life and Health Sciences created by Google Notebook](infographic.png)
+![Visual summary of the book Data and Text Processing for Health and Life Sciences](infographic.png)
 
+> **Note:** Includes a fix for the ChEBI 2.0 web interface, which currently lacks detailed cross-references on individual entry pages.
 
-**Note:** Includes fix for new ChEBI 2.0 web interface that currently lacks detailed cross-references on entry pages.
+---
 
 ## Contents
 
-- `notebooks/` – Jupyter notebooks.
-- `data/` – Files with data created and used in the notebooks.
-- `scripts/` – Scripts created in the notebooks.
+| Folder | Description |
+|---|---|
+| `notebooks/` | Jupyter notebooks (one per tutorial) |
+| `data/` | Input and output data files used by the notebooks |
+| `scripts/` | Shell scripts created during the tutorials |
 
-## Notebook Overviews
+---
 
-| # | **Notebook** | **Overview** |
-|---|--------------|--------------|
-| 01 | [unix shell](notebooks/data_text_processing_notebooks_01_unix_shell.ipynb) | Unix basics: `ls`, `pwd`, `head`, `cat`, piping. Setup for ChEBI retrieval. |
-| 02 | [data retrieval](notebooks/data_text_processing_notebooks_02_data_retrieval.ipynb) | `curl` EBI APIs. Download UniProt xrefs (CSV/XML). `getdata.sh`. |
-| 03 | [data extraction](notebooks/data_text_processing_notebooks_03_data_extraction.ipynb) | `grep` filter (HUMAN/RAT/MOUSE), `cut` columns. `getproteins.sh`. |
-| 04 | [task repetition](notebooks/data_text_processing_notebooks_04_task_repetition.ipynb) | Loops, `xargs`, `parallel` for batch processing. |
-| 05 | [XML processing](notebooks/data_text_processing_notebooks_05_xml_processing.ipynb) | `xmllint` XPath on UniProt XML. Extract PubMed IDs. |
-| 06 | [text retrieval](notebooks/data_text_processing_notebooks_06_text_retrieval.ipynb) | RDF publications (UniProt/NCBI). Extract titles/abstracts. |
-| 07 | [text processing](notebooks/data_text_processing_notebooks_07_text_processing.ipynb) | Tokenization, sentence splitting, normalization. |
-| 08 | [semantic processing](notebooks/data_text_processing_notebooks_08_semantic_processing.ipynb) | Ontology lexicons (DOID), NER + linking with MER tool. |
+## Tutorials
 
-## Open in Google Colab
+| # | Notebook | Topics Covered |
+|---|---|---|
+| 01 | [unix-shell](notebooks/01-unix-shell.ipynb) | Unix basics: `ls`, `pwd`, `head`, `cat`, piping. Environment setup for ChEBI retrieval. |
+| 02 | [data-retrieval](notebooks/02-data-retrieval.ipynb) | `curl` with EBI APIs. Download UniProt cross-references (CSV/XML). Build `getdata.sh`. |
+| 03 | [data-extraction](notebooks/03-data-extraction.ipynb) | `grep` filtering (HUMAN/RAT/MOUSE), `cut` for column selection. Build `getproteins.sh`. |
+| 04 | [task-repetition](notebooks/04-task-repetition.ipynb) | Loops, `xargs`, and `parallel` for batch processing. |
+| 05 | [xml-processing](notebooks/05-xml-processing.ipynb) | `xmllint` with XPath queries on UniProt XML. Extract PubMed IDs. |
+| 06 | [text-retrieval](notebooks/06-text-retrieval.ipynb) | RDF publication data (UniProt/NCBI). Extract titles and abstracts. |
+| 07 | [text-processing](notebooks/07-text-processing.ipynb) | Pattern matching, regular expressions, tokenization, and sentence splitting. |
+| 08 | [semantic-processing](notebooks/08-semantic-processing.ipynb) | OWL ontologies (ChEBI, DOID), URI/label conversion, synonyms, NER with the MER tool. |
 
-**01**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_01_unix_shell.ipynb  
-**02**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_02_data_retrieval.ipynb  
-**03**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_03_data_extraction.ipynb  
-**04**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_04_task_repetition.ipynb  
-**05**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_05_xml_processing.ipynb  
-**06**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_06_text_retrieval.ipynb  
-**07**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_07_text_processing.ipynb  
-**08**: https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/data_text_processing_notebooks_08_semantic_processing.ipynb
+---
 
-### Manual Colab Steps
+## Running the Notebooks
+
+### ▶ Option 1 — Google Colab (no installation required)
+
+Click a badge below to open the notebook directly in Google Colab:
+
+| # | Open in Colab |
+|---|---|
+| 01 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/01-unix-shell.ipynb) |
+| 02 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/02-data-retrieval.ipynb) |
+| 03 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/03-data-extraction.ipynb) |
+| 04 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/04-task-repetition.ipynb) |
+| 05 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/05-xml-processing.ipynb) |
+| 06 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/06-text-retrieval.ipynb) |
+| 07 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/07-text-processing.ipynb) |
+| 08 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/08-semantic-processing.ipynb) |
+
+**Alternatively**, open any notebook manually:
 1. Go to [Google Colab](https://colab.research.google.com/)
-2. **File** -> **Open notebook** -> **GitHub** tab
-3. Paste repo: `https://github.com/lasigeBioTM/data-text-processing-notebooks`
-4. Select notebook from `notebooks/` folder -> **Open**
+2. **File → Open notebook → GitHub** tab
+3. Paste the repository URL: `https://github.com/lasigeBioTM/data-text-processing-notebooks`
+4. Select a notebook from the `notebooks/` folder and click **Open**
 
-### Local Jupyter
+---
+
+### 💻 Option 2 — Local Jupyter
+
 ```bash
 git clone https://github.com/lasigeBioTM/data-text-processing-notebooks
 cd data-text-processing-notebooks
 jupyter notebook notebooks/
-```
+``` 
 
 ## License
 
