@@ -21,7 +21,7 @@ Each notebook is a hands-on, step-by-step tutorial demonstrating how Unix shell 
 
 ## Tutorials
 
-| # | Notebook | Open in Colab | Topics Covered |
+| # | Notebook | Google Colab | Topics Covered |
 |---|---|---|---|
 | 01 | [unix-shell](notebooks/01-unix-shell.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/01-unix-shell.ipynb) | Unix basics: `ls`, `pwd`, `head`, `cat`, piping. Environment setup for ChEBI retrieval. |
 | 02 | [data-retrieval](notebooks/02-data-retrieval.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/lasigeBioTM/data-text-processing-notebooks/blob/main/notebooks/02-data-retrieval.ipynb) |`curl` with EBI APIs. Download UniProt cross-references (CSV/XML). Build `getdata.sh`. |
