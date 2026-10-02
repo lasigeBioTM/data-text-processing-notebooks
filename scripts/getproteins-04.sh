@@ -4,8 +4,9 @@ ID=$1
 # Removes any previous files
 rm -f chebi_${ID}_*.xml
 
+# Creates a variable with the filename
 csv_file=chebi_${ID}_xrefs_UniProt_relevant_identifiers.csv
 
 cat "$csv_file" | \
   xargs \
-    -I {} curl 'https://rest.uniprot.org/uniprotkb/{}.xml' -o "chebi_${ID}_{}.xml" 
+    -I {} curl 'https://rest.uniprot.org/uniprotkb/{}.xml' -o "chebi_${ID}_{}.xml"
