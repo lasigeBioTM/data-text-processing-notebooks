@@ -1,4 +1,4 @@
-<entry dataset="Swiss-Prot" created="1991-05-01" modified="2026-01-28" version="254">
+<entry dataset="Swiss-Prot" created="1991-05-01" modified="2026-09-02" version="256">
   <accession>P21817</accession>
   <accession>Q16314</accession>
   <accession>Q16368</accession>
@@ -2274,9 +2274,15 @@
     <property type="interactions" value="20"/>
   </dbReference>
   <dbReference type="MINT" id="P21817"/>
+  <dbReference type="NDEx" id="IQUERY-CP-RYR1">
+    <property type="evidences" value="5 NDEx IQuery Curated Pathways"/>
+  </dbReference>
   <dbReference type="STRING" id="9606.ENSP00000352608"/>
   <dbReference type="BindingDB" id="P21817"/>
   <dbReference type="ChEMBL" id="CHEMBL1846"/>
+  <dbReference type="DrugBank" id="DB21077">
+    <property type="generic name" value="Aladorian"/>
+  </dbReference>
   <dbReference type="DrugBank" id="DB00201">
     <property type="generic name" value="Caffeine"/>
   </dbReference>
@@ -2325,7 +2331,7 @@
     <molecule id="P21817-3"/>
   </dbReference>
   <dbReference type="Antibodypedia" id="44914">
-    <property type="antibodies" value="179 antibodies from 25 providers"/>
+    <property type="antibodies" value="182 antibodies from 26 providers"/>
   </dbReference>
   <dbReference type="DNASU" id="6261"/>
   <dbReference type="Ensembl" id="ENST00000355481.8">
@@ -2424,7 +2430,7 @@
   <dbReference type="OMA" id="TWILTED"/>
   <dbReference type="OrthoDB" id="258495at2759"/>
   <dbReference type="PAN-GO" id="P21817">
-    <property type="GO annotations" value="10 GO annotations based on evolutionary models"/>
+    <property type="GO annotations" value="8 GO annotations based on evolutionary models"/>
   </dbReference>
   <dbReference type="PhylomeDB" id="P21817"/>
   <dbReference type="PathwayCommons" id="P21817"/>
@@ -2486,6 +2492,11 @@
     <property type="evidence" value="ECO:0000314"/>
     <property type="project" value="UniProtKB"/>
   </dbReference>
+  <dbReference type="GO" id="GO:0030314">
+    <property type="term" value="C:junctional membrane complex"/>
+    <property type="evidence" value="ECO:0000501"/>
+    <property type="project" value="Ensembl"/>
+  </dbReference>
   <dbReference type="GO" id="GO:0014701">
     <property type="term" value="C:junctional sarcoplasmic reticulum membrane"/>
     <property type="evidence" value="ECO:0000304"/>
@@ -2525,6 +2536,11 @@
     <property type="term" value="C:smooth endoplasmic reticulum"/>
     <property type="evidence" value="ECO:0000318"/>
     <property type="project" value="GO_Central"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0030315">
+    <property type="term" value="C:T-tubule"/>
+    <property type="evidence" value="ECO:0000501"/>
+    <property type="project" value="Ensembl"/>
   </dbReference>
   <dbReference type="GO" id="GO:0014802">
     <property type="term" value="C:terminal cisterna"/>
@@ -2566,6 +2582,11 @@
     <property type="evidence" value="ECO:0000304"/>
     <property type="project" value="ProtInc"/>
   </dbReference>
+  <dbReference type="GO" id="GO:0002020">
+    <property type="term" value="F:protease binding"/>
+    <property type="evidence" value="ECO:0000501"/>
+    <property type="project" value="Ensembl"/>
+  </dbReference>
   <dbReference type="GO" id="GO:0005219">
     <property type="term" value="F:ryanodine-sensitive calcium-release channel activity"/>
     <property type="evidence" value="ECO:0000314"/>
@@ -2575,6 +2596,11 @@
     <property type="term" value="F:voltage-gated calcium channel activity"/>
     <property type="evidence" value="ECO:0000250"/>
     <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0070588">
+    <property type="term" value="P:calcium ion transmembrane transport"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="ComplexPortal"/>
   </dbReference>
   <dbReference type="GO" id="GO:0006816">
     <property type="term" value="P:calcium ion transport"/>
